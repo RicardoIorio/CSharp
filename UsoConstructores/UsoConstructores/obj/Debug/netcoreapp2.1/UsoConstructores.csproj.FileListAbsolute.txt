@@ -1,0 +1,11 @@
+C:\Users\Bruno\source\repos\UsoConstructores\UsoConstructores\bin\Debug\netcoreapp2.1\UsoConstructores.deps.json
+C:\Users\Bruno\source\repos\UsoConstructores\UsoConstructores\bin\Debug\netcoreapp2.1\UsoConstructores.runtimeconfig.json
+C:\Users\Bruno\source\repos\UsoConstructores\UsoConstructores\bin\Debug\netcoreapp2.1\UsoConstructores.runtimeconfig.dev.json
+C:\Users\Bruno\source\repos\UsoConstructores\UsoConstructores\bin\Debug\netcoreapp2.1\UsoConstructores.dll
+C:\Users\Bruno\source\repos\UsoConstructores\UsoConstructores\bin\Debug\netcoreapp2.1\UsoConstructores.pdb
+C:\Users\Bruno\source\repos\UsoConstructores\UsoConstructores\obj\Debug\netcoreapp2.1\UsoConstructores.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\UsoConstructores\UsoConstructores\obj\Debug\netcoreapp2.1\UsoConstructores.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\UsoConstructores\UsoConstructores\obj\Debug\netcoreapp2.1\UsoConstructores.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\UsoConstructores\UsoConstructores\obj\Debug\netcoreapp2.1\UsoConstructores.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\UsoConstructores\UsoConstructores\obj\Debug\netcoreapp2.1\UsoConstructores.dll
+C:\Users\Bruno\source\repos\UsoConstructores\UsoConstructores\obj\Debug\netcoreapp2.1\UsoConstructores.pdb

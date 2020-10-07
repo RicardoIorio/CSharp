@@ -1,0 +1,11 @@
+C:\Users\Bruno\source\repos\EjemploFinally\EjemploFinally\bin\Debug\netcoreapp2.1\EjemploFinally.deps.json
+C:\Users\Bruno\source\repos\EjemploFinally\EjemploFinally\bin\Debug\netcoreapp2.1\EjemploFinally.runtimeconfig.json
+C:\Users\Bruno\source\repos\EjemploFinally\EjemploFinally\bin\Debug\netcoreapp2.1\EjemploFinally.runtimeconfig.dev.json
+C:\Users\Bruno\source\repos\EjemploFinally\EjemploFinally\bin\Debug\netcoreapp2.1\EjemploFinally.dll
+C:\Users\Bruno\source\repos\EjemploFinally\EjemploFinally\bin\Debug\netcoreapp2.1\EjemploFinally.pdb
+C:\Users\Bruno\source\repos\EjemploFinally\EjemploFinally\obj\Debug\netcoreapp2.1\EjemploFinally.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\EjemploFinally\EjemploFinally\obj\Debug\netcoreapp2.1\EjemploFinally.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\EjemploFinally\EjemploFinally\obj\Debug\netcoreapp2.1\EjemploFinally.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\EjemploFinally\EjemploFinally\obj\Debug\netcoreapp2.1\EjemploFinally.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\EjemploFinally\EjemploFinally\obj\Debug\netcoreapp2.1\EjemploFinally.dll
+C:\Users\Bruno\source\repos\EjemploFinally\EjemploFinally\obj\Debug\netcoreapp2.1\EjemploFinally.pdb

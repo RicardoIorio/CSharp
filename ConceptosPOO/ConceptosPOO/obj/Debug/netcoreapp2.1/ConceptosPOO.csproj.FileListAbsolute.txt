@@ -1,0 +1,11 @@
+C:\Users\Bruno\source\repos\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp2.1\ConceptosPOO.deps.json
+C:\Users\Bruno\source\repos\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp2.1\ConceptosPOO.runtimeconfig.json
+C:\Users\Bruno\source\repos\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp2.1\ConceptosPOO.runtimeconfig.dev.json
+C:\Users\Bruno\source\repos\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp2.1\ConceptosPOO.dll
+C:\Users\Bruno\source\repos\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp2.1\ConceptosPOO.pdb
+C:\Users\Bruno\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp2.1\ConceptosPOO.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp2.1\ConceptosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp2.1\ConceptosPOO.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp2.1\ConceptosPOO.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp2.1\ConceptosPOO.dll
+C:\Users\Bruno\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp2.1\ConceptosPOO.pdb

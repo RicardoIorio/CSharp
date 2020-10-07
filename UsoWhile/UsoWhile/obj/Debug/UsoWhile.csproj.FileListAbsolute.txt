@@ -1,0 +1,7 @@
+C:\Users\Bruno\source\repos\UsoWhile\UsoWhile\bin\Debug\UsoWhile.exe.config
+C:\Users\Bruno\source\repos\UsoWhile\UsoWhile\bin\Debug\UsoWhile.exe
+C:\Users\Bruno\source\repos\UsoWhile\UsoWhile\bin\Debug\UsoWhile.pdb
+C:\Users\Bruno\source\repos\UsoWhile\UsoWhile\obj\Debug\UsoWhile.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\UsoWhile\UsoWhile\obj\Debug\UsoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\UsoWhile\UsoWhile\obj\Debug\UsoWhile.exe
+C:\Users\Bruno\source\repos\UsoWhile\UsoWhile\obj\Debug\UsoWhile.pdb

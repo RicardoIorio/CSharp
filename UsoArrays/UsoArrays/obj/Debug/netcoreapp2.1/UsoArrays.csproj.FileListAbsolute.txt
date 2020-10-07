@@ -1,0 +1,11 @@
+C:\Users\Bruno\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp2.1\UsoArrays.deps.json
+C:\Users\Bruno\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp2.1\UsoArrays.runtimeconfig.json
+C:\Users\Bruno\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp2.1\UsoArrays.runtimeconfig.dev.json
+C:\Users\Bruno\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp2.1\UsoArrays.dll
+C:\Users\Bruno\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp2.1\UsoArrays.pdb
+C:\Users\Bruno\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp2.1\UsoArrays.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp2.1\UsoArrays.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp2.1\UsoArrays.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp2.1\UsoArrays.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp2.1\UsoArrays.dll
+C:\Users\Bruno\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp2.1\UsoArrays.pdb

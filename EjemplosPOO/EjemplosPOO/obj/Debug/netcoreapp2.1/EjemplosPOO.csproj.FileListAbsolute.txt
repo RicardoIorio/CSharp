@@ -1,0 +1,11 @@
+C:\Users\Bruno\source\repos\EjemplosPOO\EjemplosPOO\bin\Debug\netcoreapp2.1\EjemplosPOO.deps.json
+C:\Users\Bruno\source\repos\EjemplosPOO\EjemplosPOO\bin\Debug\netcoreapp2.1\EjemplosPOO.runtimeconfig.json
+C:\Users\Bruno\source\repos\EjemplosPOO\EjemplosPOO\bin\Debug\netcoreapp2.1\EjemplosPOO.runtimeconfig.dev.json
+C:\Users\Bruno\source\repos\EjemplosPOO\EjemplosPOO\bin\Debug\netcoreapp2.1\EjemplosPOO.dll
+C:\Users\Bruno\source\repos\EjemplosPOO\EjemplosPOO\bin\Debug\netcoreapp2.1\EjemplosPOO.pdb
+C:\Users\Bruno\source\repos\EjemplosPOO\EjemplosPOO\obj\Debug\netcoreapp2.1\EjemplosPOO.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\EjemplosPOO\EjemplosPOO\obj\Debug\netcoreapp2.1\EjemplosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\EjemplosPOO\EjemplosPOO\obj\Debug\netcoreapp2.1\EjemplosPOO.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\EjemplosPOO\EjemplosPOO\obj\Debug\netcoreapp2.1\EjemplosPOO.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\EjemplosPOO\EjemplosPOO\obj\Debug\netcoreapp2.1\EjemplosPOO.dll
+C:\Users\Bruno\source\repos\EjemplosPOO\EjemplosPOO\obj\Debug\netcoreapp2.1\EjemplosPOO.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bruno\source\repos\LanzamientoDeExepciones\LanzamientoDeExepciones\bin\Debug\netcoreapp2.1\LanzamientoDeExepciones.deps.json
+C:\Users\Bruno\source\repos\LanzamientoDeExepciones\LanzamientoDeExepciones\bin\Debug\netcoreapp2.1\LanzamientoDeExepciones.runtimeconfig.json
+C:\Users\Bruno\source\repos\LanzamientoDeExepciones\LanzamientoDeExepciones\bin\Debug\netcoreapp2.1\LanzamientoDeExepciones.runtimeconfig.dev.json
+C:\Users\Bruno\source\repos\LanzamientoDeExepciones\LanzamientoDeExepciones\bin\Debug\netcoreapp2.1\LanzamientoDeExepciones.dll
+C:\Users\Bruno\source\repos\LanzamientoDeExepciones\LanzamientoDeExepciones\bin\Debug\netcoreapp2.1\LanzamientoDeExepciones.pdb
+C:\Users\Bruno\source\repos\LanzamientoDeExepciones\LanzamientoDeExepciones\obj\Debug\netcoreapp2.1\LanzamientoDeExepciones.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\LanzamientoDeExepciones\LanzamientoDeExepciones\obj\Debug\netcoreapp2.1\LanzamientoDeExepciones.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\LanzamientoDeExepciones\LanzamientoDeExepciones\obj\Debug\netcoreapp2.1\LanzamientoDeExepciones.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\LanzamientoDeExepciones\LanzamientoDeExepciones\obj\Debug\netcoreapp2.1\LanzamientoDeExepciones.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\LanzamientoDeExepciones\LanzamientoDeExepciones\obj\Debug\netcoreapp2.1\LanzamientoDeExepciones.dll
+C:\Users\Bruno\source\repos\LanzamientoDeExepciones\LanzamientoDeExepciones\obj\Debug\netcoreapp2.1\LanzamientoDeExepciones.pdb

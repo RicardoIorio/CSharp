@@ -1,0 +1,1 @@
+c:\users\bruno\source\repos\Hello world\Hello world\Hello world.csproj;x86

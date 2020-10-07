@@ -1,0 +1,11 @@
+C:\Users\Bruno\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\netcoreapp2.1\ProyectoHerencia.deps.json
+C:\Users\Bruno\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\netcoreapp2.1\ProyectoHerencia.runtimeconfig.json
+C:\Users\Bruno\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\netcoreapp2.1\ProyectoHerencia.runtimeconfig.dev.json
+C:\Users\Bruno\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\netcoreapp2.1\ProyectoHerencia.dll
+C:\Users\Bruno\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\netcoreapp2.1\ProyectoHerencia.pdb
+C:\Users\Bruno\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\netcoreapp2.1\ProyectoHerencia.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\netcoreapp2.1\ProyectoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\netcoreapp2.1\ProyectoHerencia.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\netcoreapp2.1\ProyectoHerencia.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\netcoreapp2.1\ProyectoHerencia.dll
+C:\Users\Bruno\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\netcoreapp2.1\ProyectoHerencia.pdb
